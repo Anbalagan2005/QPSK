@@ -1,5 +1,5 @@
 # QPSK
-# Aim
+# Aim 
 Write a Python program for the modulation and demodulation of QPSK.
 # Tools required
 Python: A versatile programming language used for scientific computing and signal
